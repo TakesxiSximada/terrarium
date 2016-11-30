@@ -1,0 +1,8 @@
+{
+  "_comment": "gatekeeper",
+  "vm_name": "gatekeeper",
+  "cpus": "1",
+  "disk_size": "5120",
+  "memory": "512",
+  "preseed" : "preseed.cfg"
+}
